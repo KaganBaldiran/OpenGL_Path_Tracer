@@ -1,3 +1,7 @@
+![GitHub language count](https://img.shields.io/github/languages/count/KaganBaldiran/OpenGL_Path_Tracer)
+![GitHub top language](https://img.shields.io/github/languages/top/KaganBaldiran/OpenGL_Path_Tracer)
+![GitHub last commit](https://img.shields.io/github/last-commit/KaganBaldiran/OpenGL_Path_Tracer)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 # Overview
 A demo path tracer written in c++ with OpenGL graphics API. 
 Path tracing is done on a compute shader using a hybrid BVH(top and bottom) for acceleration.
