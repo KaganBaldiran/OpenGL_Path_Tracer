@@ -9,6 +9,6 @@ Currently the BVH construction done on the CPU but GPU based construction is in 
 The estimator can sample emissive lights using NEE(Next Even Estimation) and the analytical lights used in the rastered scenes alike.
 
 Here are quick demo scenes. Scenes don't belong to me. 
-[![Demo video](![thumbnail2](https://github.com/user-attachments/assets/64b6e5e5-7428-4d65-b055-0bf53d8894c6))](https://www.youtube.com/watch?v=0LtYzlawqec&t=38s)
+[![Demo video](https://github.com/user-attachments/assets/64b6e5e5-7428-4d65-b055-0bf53d8894c6)](https://www.youtube.com/watch?v=0LtYzlawqec&t=38s)
 ![image](https://github.com/user-attachments/assets/bd9f15d4-54cd-46c2-80bc-5cca696cff8b)
 ![image](https://github.com/user-attachments/assets/5ae284cb-3443-42b4-841d-3d111443e79f)
